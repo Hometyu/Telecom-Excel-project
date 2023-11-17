@@ -1,5 +1,7 @@
 
 # Telecom-Excel-project
+![image](https://github.com/Hometyu/Telecom-Excel-project/assets/133088878/a7122840-758f-4930-9be3-ae093b2c3070)
+
 ## Table of content
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
