@@ -16,7 +16,7 @@ This project analyzes the  customer base  for a telecommuunication company and p
 
 
 ### Data Sources
-Telecom_customer_churn Data: The primary dataset for this analysis is the "telecom_customer_churn_1 (2).xlsx file containing detailed information about each customer interaction with the copmany
+Telecom_customer_churn Data: The primary dataset for this analysis is the "telecom_customer_churn_1 (2).xlsx file containing detailed information about each customer interaction with the company
 
 ### Tools
 - Excel [ Download here](https://microsoft.com)
